@@ -1,5 +1,5 @@
-### Hi there 👋
 cwarhurst1@collin.edu
+
 <!--
 **calwarhurst/calwarhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
