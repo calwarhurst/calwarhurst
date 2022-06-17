@@ -1,4 +1,4 @@
-I'm currently working on a sports betting strategy analysis program using Python and Postgres. I'm also working on an application to manage and distribute encryption keys to beneficiaries. These hobby projects have given me an oppurtunity to learn server and database administration. 
+I'm currently working on a sports betting strategy analysis program using Python and Postgres. I'm also working on an application to manage and distribute encryption keys to beneficiaries. These hobby projects have given me an oppurtunity to learn server and database administration, and dive deeper into data modeling and analysis. 
 <!--
 **calwarhurst/calwarhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
